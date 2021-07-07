@@ -1,6 +1,6 @@
 # README
 
-vue.js とRuby on Railsを組み合わせて作った簡易的なメモアプリです
+vue.js とRuby on Railsを組み合わせて作った簡易的なメモアプリです。
 
 Things you may want to cover:
 
